@@ -1,4 +1,6 @@
-!![Authentication-Login-Background](https://github.com/user-attachments/assets/3b8afeaa-8467-4ed6-acb6-8da879632714)# 🔐 Authentication System with Timeout Session
+![Authentication-Login-Background](https://github.com/user-attachments/assets/3b8afeaa-8467-4ed6-acb6-8da879632714)
+
+# 🔐 Authentication System with Timeout Session
 
 This is a full-stack **Authentication System** built with a focus on **security**, **speed**, and **developer-friendly implementation**. It features a **Single Page Application (SPA)** using **React/Vite + TypeScript** for the frontend and **CodeIgniter 4 (PHP Framework)** for the backend API.
 
