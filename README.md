@@ -52,13 +52,13 @@ This is a full-stack **Authentication System** built with a focus on **security*
 
 **Client**:
 - Source File:
-- ![image](https://github.com/user-attachments/assets/7ef5434b-cdad-4840-9824-b248a15ac28d)
+   - ![image](https://github.com/user-attachments/assets/7ef5434b-cdad-4840-9824-b248a15ac28d)
 
 **Backend**:
 - Controller:
-- ![image](https://github.com/user-attachments/assets/e716b401-0b3b-475a-9a32-8dc6d8fb8493)
+   - ![image](https://github.com/user-attachments/assets/e716b401-0b3b-475a-9a32-8dc6d8fb8493)
 - Models:
-- ![image](https://github.com/user-attachments/assets/7574be66-2589-4c97-94b5-177e251b4992)
+   - ![image](https://github.com/user-attachments/assets/7574be66-2589-4c97-94b5-177e251b4992)
 
 
 ---
